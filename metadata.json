@@ -1,0 +1,6 @@
+{
+  "name": "AI Hub",
+  "description": "Premium AI Super Platform with coins economy, AI Assistant, Vision, Image Generation, Speech to Text, Community, & Rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
