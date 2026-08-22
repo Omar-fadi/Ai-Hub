@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "AI Hub"
+rootProject.name = "SWF Editor"
 
 include(":app")

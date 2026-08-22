@@ -1,6 +1,6 @@
 {
-  "name": "AI Hub",
-  "description": "Premium AI Super Platform with coins economy, AI Assistant, Vision, Image Generation, Speech to Text, Community, & Rewards.",
+  "name": "SWF Editor",
+  "description": "Professional SWF File Manager and Text/Code Editor. Parse, extract, edit, and rebuild SWF files locally on your device.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

@@ -2,25 +2,36 @@ package com.example.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val DarkBackground = Color(0xFF0B0E14)
-val DarkSurface = Color(0xFF131822)
-val DarkSurfaceVariant = Color(0xFF1E2536)
-val DarkSurfaceHeader = Color(0xFF171D2A)
+// Sleek Gray, White, and Deep Black Palette
+val DarkBackground = Color(0xFF0E0E11)
+val DarkSurface = Color(0xFF18181D)
+val DarkSurfaceVariant = Color(0xFF24242C)
+val DarkSurfaceHeader = Color(0xFF1E1E26)
 
-val PrimaryViolet = Color(0xFF8B5CF6)
-val PrimaryVioletLight = Color(0xFFA78BFA)
-val SecondaryCyan = Color(0xFF06B6D4)
-val TertiaryPink = Color(0xFFEC4899)
+// Primary Accent - Crisp White & Platinum Gray
+val PrimaryAccent = Color(0xFFFFFFFF)
+val PrimaryAccentLight = Color(0xFFE2E8F0)
+val SecondaryGray = Color(0xFFA1A1AA)
+val AccentBorder = Color(0xFF33333E)
 
-val CoinGold = Color(0xFFF59E0B)
-val CoinGoldLight = Color(0xFFFCD34D)
-val CoinGoldDark = Color(0xFFD97706)
+// Status Accents
+val CoinSilverGold = Color(0xFFEAB308)
+val SuccessGreen = Color(0xFF22C55E)
+val ErrorRed = Color(0xFFEF4444)
 
 val TextPrimary = Color(0xFFF8FAFC)
-val TextSecondary = Color(0xFF94A3B8)
-val TextMuted = Color(0xFF64748B)
+val TextSecondary = Color(0xFFA1A1AA)
+val TextMuted = Color(0xFF71717A)
 
-val SuccessGreen = Color(0xFF10B981)
-val ErrorRed = Color(0xFFEF4444)
-val CardBorder = Color(0xFF2E374A)
+val CardBorder = Color(0xFF2D2D38)
+
+// Compatibility aliases
+val PrimaryViolet = PrimaryAccent
+val PrimaryVioletLight = PrimaryAccentLight
+val SecondaryCyan = Color(0xFFE4E4E7)
+val TertiaryPink = Color(0xFFA1A1AA)
+val CoinGold = CoinSilverGold
+val CoinGoldLight = Color(0xFFFDE047)
+val CoinGoldDark = Color(0xFFCA8A04)
+
 
